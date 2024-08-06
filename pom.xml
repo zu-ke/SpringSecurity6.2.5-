@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.zuke</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>5</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
-    <description>demo</description>
+    <name>SpringSecurty6.2.5</name>
+    <description>SpringSecurty6.2.5</description>
 
     <properties>
         <java.version>17</java.version>
