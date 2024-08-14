@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
-//处理授权失败
+//处理账号密码认证异常
 
 @Component
 public class AuthenticationEntryPointImpl implements AuthenticationEntryPoint {

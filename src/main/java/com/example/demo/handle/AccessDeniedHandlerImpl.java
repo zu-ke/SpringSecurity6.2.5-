@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
-//处理认证失败
+//处理账号角色认证异常
 
 /**
  * @author zukedog@163.com
